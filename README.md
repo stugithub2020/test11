@@ -40,7 +40,7 @@ A implementation of project to use Raspberry Pi based device to detecting and ev
 
 ## hardware-wiring
 # how it works
-We use several kinds of sensors to monitor users sleep and collect their data related to the sleep. The device, then, evaluate users' sleep quality and diagnose if users suffering from sleep disorders, according to the assessment that given below. Additionally, the diagonsis will be uploaded to a serve eventually and users are allowed to check it out by downloading it through a computer or cellphone. During the sleep, sleep infomation will also be uploaded to the serve in real time，which allows supervisors (maybe baby-sitters, parents, nurses etc.) to record users' real-time sleep state.
+We used four sensors: sound sensor, light sensor, heartbeat measurement sensor and movement sensor. Connect these four sensors to the Raspberry Pi, and upload the data from the sensors to the Raspberry Pi through the iic interface on the Raspberry Pi. Then use our algorithm to calculate this data on the Raspberry Pi, and then get the sleep quality score. We also set up a set of servers and a mysql database. We upload the sensor data collected by the Raspberry Pi and the calculated sleep quality score to the mysql database through the interface. The server obtains the data in the database and displays it on a web page. The above processes are all real-time, and users can obtain various data and sleep quality scores during their sleep through this web page.(http://78.141.235.21/rtshow3.html)
 
 Here is a working demonstration of the system:
 ![15E17EC1-5B44-4358-8A54-BAEF73FF8F33](https://user-images.githubusercontent.com/77977624/109402512-73ac1700-794e-11eb-8671-5e314399f869.jpeg)
