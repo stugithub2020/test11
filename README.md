@@ -43,11 +43,11 @@ Better view has been implemented. the page will showing data when the page finis
 <!-- CONTACT -->
 ## Contact us
 
-Shengtao Zhong -2586232Z@student.gla.ac.uk
+Zhongju Zhu     -2547408Z@student.gla.ac.uk
 
-Zhongju Zhu -2547408Z@student.gla.ac.uk
+Shengtao Zhong  -2586232Z@student.gla.ac.uk
 
-Yangbolun Zhou -2515369Z@student.gla.ac.uk
+Yangbolun Zhou  -2515369Z@student.gla.ac.uk
 
 * [Twitter](https://twitter.com/jianzha47918304/status/1381001029836226560?s=21) 
 
