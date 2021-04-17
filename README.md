@@ -20,7 +20,7 @@
     <li><a href="#how-it-works">how it works</a></li>
     <li><a href="#assessment-methodology">assessment methodology</a></li>
     <li><a href="#data-visualization-example">data visualization example</a></li>
-    <li><a href="#contact">contact</a></li>
+    <li><a href="#contact-us">contact</a></li>
     <li><a href="#references">references</a></li>
   </ol>
 </details>
@@ -63,7 +63,7 @@ Better view has been implemented. the page will showing data when the page finis
 
 
 <!-- CONTACT -->
-## contact us
+## contact-us
 
 Zhongju Zhu     -2547408Z@student.gla.ac.uk
 
