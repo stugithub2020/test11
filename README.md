@@ -11,9 +11,9 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li>
-      <a href="#hardware introduction">About The Project</a>
+      <a href="#hardware introduction">Getting Started</a>
       <ul>
-        <li><a href="#hardware used">Built With</a></li>
+        <li><a href="#hardware used">Prerequisites</a></li>
         <li><a href="#hardware wiring">Installation</a></li>
       </ul>
     </li>
