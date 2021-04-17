@@ -17,9 +17,9 @@
         <li><a href="#hardware-wiring">hardware wiring</a></li>
       </ul>
     </li>
-    <li><a href="#how it works">how it works</a></li>
-    <li><a href="#assessment methodology">assessment methodology</a></li>
-    <li><a href="#data visualization example">data visualization example</a></li>
+    <li><a href="#how-it-works">how it works</a></li>
+    <li><a href="#assessment-methodology">assessment methodology</a></li>
+    <li><a href="#data-visualization-example">data visualization example</a></li>
     <li><a href="#contact">contact</a></li>
     <li><a href="#references">references</a></li>
   </ol>
