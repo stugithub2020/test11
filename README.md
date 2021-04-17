@@ -228,7 +228,7 @@ Project Link: [https://github.com/hnhkfcy/Smart-Pets-Feeder](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/badge/CONTRIBUTORS-3-green
+[contributors-shield]: https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/graphs/contributors
 [contributors-url]: https://github.com/hnhkfcy/Smart-Pets-Feeder/graphs/contributors
 [forks-shield]: https://img.shields.io/badge/FORKS-3-blue
 [forks-url]: https://github.com/zj736893657/Smart-Pets-Feeder/network/members
