@@ -30,6 +30,10 @@
 A implementation of project to use Raspberry Pi based device to detecting and evaluating sleep quality, use C++ mostly.
 # hardware-introduction
 ## hardware-used
+[raspberrypi4B](https://www.raspberrypi.org/software/operating-systems/)
+[ADXL345](https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/blob/main/code/ADXL345/ADXL345.pdf)
+[MAX30102](https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/blob/main/code/MAX30102(Heart%20Rate%20test)/MAX30102.pdf)
+[MAX44009](https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/blob/main/code/MAX44009_and_SoundSensor/MAX44009.pdf)
 ## hardware-wiring
 # how it works
 We use several kinds of sensors to monitor users sleep and collect their data related to the sleep. The device, then, evaluate users' sleep quality and diagnose if users suffering from sleep disorders, according to the assessment that given below. Additionally, the diagonsis will be uploaded to a serve eventually and users are allowed to check it out by downloading it through a computer or cellphone. During the sleep, sleep infomation will also be uploaded to the serve in real time，which allows supervisors (maybe baby-sitters, parents, nurses etc.) to record users' real-time sleep state.
