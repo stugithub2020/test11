@@ -21,7 +21,7 @@
     <li><a href="#assessment-methodology">assessment methodology</a></li>
     <li><a href="#data-visualization-example">data visualization example</a></li>
     <li><a href="#the-final-code">the final code</a></li>
-    <li><a href="#contact-us">contact</a></li>
+    <li><a href="#contact-us">the personal github link and the media link</a></li>
     <li><a href="#references">references</a></li>
   </ol>
 </details>
