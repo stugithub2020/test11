@@ -11,10 +11,10 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li>
-      <a href="#hardware introduction">Getting Started</a>
+      <a href="#hardware introduction">hardware introduction</a>
       <ul>
-        <li><a href="#hardware used">Prerequisites</a></li>
-        <li><a href="#hardware wiring">Installation</a></li>
+        <li><a href="#hardware used">hardware used</a></li>
+        <li><a href="#hardware wiring">hardware wiring</a></li>
       </ul>
     </li>
     <li><a href="#uxxxxxge">Usage</a></li>
