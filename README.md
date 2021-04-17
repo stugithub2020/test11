@@ -11,10 +11,10 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li>
-      <a href="#hardware introduction">hardware introduction</a>
+      <a href="#hardware-introduction">hardware introduction</a>
       <ul>
-        <li><a href="#hardware used">hardware used</a></li>
-        <li><a href="#hardware wiring">hardware wiring</a></li>
+        <li><a href="#hardware-used">hardware used</a></li>
+        <li><a href="#hardware-wiring">hardware wiring</a></li>
       </ul>
     </li>
     <li><a href="#how it works">how it works</a></li>
@@ -28,9 +28,9 @@
 
 # about-the-project
 A implementation of project to use Raspberry Pi based device to detecting and evaluating sleep quality, use C++ mostly.
-# hardware introduction
-## hardware used
-## hardware wiring
+# hardware-introduction
+## hardware-used
+## hardware-wiring
 # how it works
 We use several kinds of sensors to monitor users sleep and collect their data related to the sleep. The device, then, evaluate users' sleep quality and diagnose if users suffering from sleep disorders, according to the assessment that given below. Additionally, the diagonsis will be uploaded to a serve eventually and users are allowed to check it out by downloading it through a computer or cellphone. During the sleep, sleep infomation will also be uploaded to the serve in real time，which allows supervisors (maybe baby-sitters, parents, nurses etc.) to record users' real-time sleep state.
 
