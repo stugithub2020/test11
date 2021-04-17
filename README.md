@@ -9,7 +9,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#about-the-project">about the project</a></li>
     <li>
       <a href="#hardware-introduction">hardware introduction</a>
       <ul>
@@ -20,6 +20,7 @@
     <li><a href="#how-it-works">how it works</a></li>
     <li><a href="#assessment-methodology">assessment methodology</a></li>
     <li><a href="#data-visualization-example">data visualization example</a></li>
+    <li><a href="#the-final-code">the final code</a></li>
     <li><a href="#contact-us">contact</a></li>
     <li><a href="#references">references</a></li>
   </ol>
@@ -69,15 +70,19 @@ Better view has been implemented. the page will showing data when the page finis
 
 ![view-example1](https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/blob/main/Documents/img/view-example1.png?raw=true)
 
-
+#the-final-code
+[the final code](https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/tree/main/code/version_1.0/theMainCode)
 <!-- CONTACT -->
 ## contact-us
 
 Zhongju Zhu     -2547408Z@student.gla.ac.uk
+https://github.com/zhuzhongju
 
 Shengtao Zhong  -2586232Z@student.gla.ac.uk
+https://github.com/stugithub2020
 
 Yangbolun Zhou  -2515369Z@student.gla.ac.uk
+https://github.com/ZhouyangBolun
 
 * [Twitter](https://twitter.com/jianzha47918304/status/1381001029836226560?s=21) 
 
