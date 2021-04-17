@@ -231,11 +231,11 @@ Project Link: [https://github.com/hnhkfcy/Smart-Pets-Feeder](https://github.com/
 [contributors-shield]: https://img.shields.io/badge/CONTRIBUTORS-3-green
 [contributors-url]: https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/graphs/contributors
 [forks-shield]: https://img.shields.io/badge/FORKS-3-blue
-[forks-url]: https://github.com/zj736893657/Smart-Pets-Feeder/network/members
+[forks-url]: https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/network/members
 [stars-shield]: https://img.shields.io/badge/STARS-7-red
-[stars-url]: https://github.com/hnhkfcy/Smart-Pets-Feeder/stargazers
+[stars-url]: https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/stargazers
 [issues-shield]: https://img.shields.io/badge/ISSUES-2-yellow
-[issues-url]: https://github.com/hnhkfcy/Smart-Pets-Feeder/issues
+[issues-url]: https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/issues
 [license-shield]: https://img.shields.io/badge/LICENSE-MIT-green
-[license-url]: https://github.com/hnhkfcy/Smart-Pets-Feeder/blob/master/LICENSE
+[license-url]: https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
