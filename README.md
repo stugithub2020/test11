@@ -230,11 +230,11 @@ Project Link: [https://github.com/hnhkfcy/Smart-Pets-Feeder](https://github.com/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/CONTRIBUTORS-3-green
 [contributors-url]: https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/graphs/contributors
-[forks-shield]: https://img.shields.io/badge/FORKS-3-blue
+[forks-shield]: https://img.shields.io/badge/FORKS-blue
 [forks-url]: https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/network/members
-[stars-shield]: https://img.shields.io/badge/STARS-7-red
+[stars-shield]: https://img.shields.io/badge/STARS-red
 [stars-url]: https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/stargazers
-[issues-shield]: https://img.shields.io/badge/ISSUES-2-yellow
+[issues-shield]: https://img.shields.io/badge/ISSUES-yellow
 [issues-url]: https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/issues
 [license-shield]: https://img.shields.io/badge/LICENSE-MIT-green
 [license-url]: https://github.com/UofG-RTEP-Team25/SleepQualityEvaluationRPi/blob/main/LICENSE
